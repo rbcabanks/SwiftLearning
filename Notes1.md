@@ -49,10 +49,25 @@
 - can use _ (which swift ignores)
 - `let score=100_000_000`
   
-- .hasPrefix("A Day")
-    - `print(actor.hasPrefix("A Day"))`
+- can do mathematical operations
+    - `let lowerScore=score-2`
 
-- .hasSuffix(".jpg")
-    - `print(actor.hasSuffix(".jpg"))`
+- Swift allows you to assign results back to original variable
+    - `var counter = 10`
+    - `counter=counter+5` or `counter+=5`
+    - `counter*=2`
+ 
+- .isMultiple(of:3)) boolean
+    - `counter.isMultiple(of:3))`
+
+## Storing decimal numbers
+- Floating point number (decimals)
+- `let number = 0.1+0.2`
+- causes problems because it is very complicated
+
+- when you make a floating point number, it considers it as a double
+
+- cannot mix ints and doubles
+    - can convert double to int using Int(a) or the opposite Double(b)
  
 

@@ -39,8 +39,20 @@
     - string in upper case
     - `print(actor.uppercased())`
 
+## Storing whole numbers
+- Swift uses ints when whole numbers are used (positive and negative)
+- use let or var (for constant or variable)
+
+- `let score=10`
+
+- past certain number, it is difficult to read (without commas)
+- can use _ (which swift ignores)
+- `let score=100_000_000`
+  
 - .hasPrefix("A Day")
     - `print(actor.hasPrefix("A Day"))`
 
 - .hasSuffix(".jpg")
     - `print(actor.hasSuffix(".jpg"))`
+ 
+

@@ -22,3 +22,8 @@
 - Value cannot change
 - let character = "Daphne"
 
+- print with
+    - print(greeting)
+    - print(character)
+
+- Swift doesn't care what you name constants but typically, camel case (like managerName) is used

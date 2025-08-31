@@ -33,14 +33,14 @@
 
 - .count
     - length of string .count
-    - print(actor.count)
+    - `print(actor.count)`
 
 - .uppercased()
     - string in upper case
-    - print(actor.uppercased())
+    - `print(actor.uppercased())`
 
 - .hasPrefix("A Day")
-    - print(actor.hasPrefix("A Day"))
+    - `print(actor.hasPrefix("A Day"))`
 
 - .hasSuffix(".jpg")
-    - print(actor.hasSuffix(".jpg"))
+    - `print(actor.hasSuffix(".jpg"))`

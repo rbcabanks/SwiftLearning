@@ -23,3 +23,24 @@
     - `print(character)`
 
 - Swift doesn't care what you name constants but typically, camel case (like managerName) is used
+
+## Creating strings
+- strings are double quotes
+- `let actor = "Denzel Washington"`
+- can even use double quotes in a string, but need back slashes before them
+- long paragraphs have triple quotes
+- ` let movie = """ A day in the life of an Apple engineer"""`
+
+- .count
+    - length of string .count
+    - print(actor.count)
+
+- .uppercased()
+    - string in upper case
+    - print(actor.uppercased())
+
+- .hasPrefix("A Day")
+    - print(actor.hasPrefix("A Day"))
+
+- .hasSuffix(".jpg")
+    - print(actor.hasSuffix(".jpg"))

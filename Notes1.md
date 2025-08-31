@@ -70,4 +70,4 @@
 - cannot mix ints and doubles
     - can convert double to int using Int(a) or the opposite Double(b)
  
-
+- cg floats are pretty much doubles (from old Apple code)
